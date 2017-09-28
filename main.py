@@ -51,7 +51,7 @@ height: 120px;
 
 <body> 
 
-
+<form action="/encrypt" method="post">
 
 <div>
 
@@ -69,6 +69,7 @@ height: 120px;
 
 <input type="submit" value="Submit"/>
 
+</form>
 
 </body>
 
